@@ -31,10 +31,10 @@ start_ride_price - стоимость начала поездки
 subscription_fee - стоимость ежемесячного платежа
 
 Используемые библиотеки:
-import pandas 
-import matplotlib.pyplot 
-import numpy
-from cipy import stats
-from math import sqrt
-from math import factorial
-from scipy.stats import binom, norm
+- import pandas 
+- import matplotlib.pyplot 
+- import numpy
+- from cipy import stats
+- from math import sqrt
+- from math import factorial
+- from scipy.stats import binom, norm
