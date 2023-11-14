@@ -25,7 +25,7 @@
 - import numpy as np
 - import math as mth
 
-[Презентация доступена для просмотра по этой ссылке](https://disk.yandex.ru/i/7E9BeYJmnrx9Cw)
+[Презентация доступна для просмотра по этой ссылке](https://disk.yandex.ru/i/7E9BeYJmnrx9Cw)
 
 [Дашборд доступен для просмотра по этой ссылке](https://public.tableau.com/views/_16972362033250/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
