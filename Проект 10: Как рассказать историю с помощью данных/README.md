@@ -38,3 +38,5 @@
 - from folium import Map, Choropleth
 - from folium import Map, Marker
 - from folium.plugins import MarkerCluster
+
+Презентацию можно посмотреть по [ссылке.](https://disk.yandex.ru/i/xsJqJ7QvBxUMPw)
